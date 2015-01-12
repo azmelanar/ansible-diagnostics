@@ -1,0 +1,15 @@
+---
+diagnostics_packages:
+  - atop
+  - dmidecode
+  - file
+  - htop
+  - iftop
+  - iotop
+  - nmap
+  - procps
+  - socat
+  - strace
+  - tcpdump
+  - telnet
+  - traceroute
